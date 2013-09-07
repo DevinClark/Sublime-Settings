@@ -1,0 +1,83 @@
+{
+	"auto_complete_triggers":
+	[
+		{
+			"characters": "<",
+			"selector": "text.html"
+		},
+		{
+			"characters": ".",
+			"selector": "source.js"
+		}
+	],
+	"binary_file_patterns":
+	[
+		"*.psd"
+	],
+	"bold_folder_labels": true,
+	"caret_style": "smooth",
+	"color_scheme": "Packages/Theme - Phoenix/Color Scheme/Phoenix Dark Blue - Eighties.tmTheme",
+	"detect_indentation": false,
+	"detect_slow_plugins": false,
+	"fade_fold_buttons": false,
+	"file_exclude_patterns":
+	[
+		"*.DS_store",
+		"*.gem",
+		"*.gz",
+		"*.jar",
+		"*.log",
+		"*.pdf",
+		"*.psd",
+		"*.sassc",
+		"*.scssc",
+		"*.xap",
+		"*.zip",
+		"*.sublime-project",
+		"*.sublime-workspace"
+	],
+	"folder_exclude_patterns":
+	[
+		".sass-cache",
+		".git",
+		".hg",
+		".bin",
+		"wp-admin",
+		"wp-includes"
+	],
+	"font_face": "Monaco",
+	"font_size": 20.0,
+	"highlight_line": true,
+	"ignored_packages":
+	[
+		"Xdebug",
+		"Theme - Flatland",
+		"PhpTidy",
+		"Vintage",
+		"PyV8",
+		"WordHighlight"
+	],
+	"line_padding_bottom": 2,
+	"line_padding_top": 2,
+	"match_brackets": true,
+	"match_brackets_angle": true,
+	"match_brackets_content": true,
+	"match_brackets_square": true,
+	"open_files_in_new_window": false,
+	"phoenix_color_blue": true,
+	"phoenix_color_expanded_folder": true,
+	"phoenix_dirty_bottom_bar": true,
+	"phoenix_dirty_bottom_bar_red": true,
+	"phoenix_eighties": true,
+	"phoenix_highlight_current_tab": true,
+	"phoenix_solid_current_tab": true,
+	"phoenix_tabs_auto_width": false,
+	"phoenix_tabs_small": false,
+	"scroll_past_end": true,
+	"tab_completion": true,
+	"tab_size": 2,
+	"theme": "Phoenix Dark.sublime-theme",
+	"translate_tabs_to_spaces": false,
+	"use_simple_full_screen": true,
+	"word_wrap": true
+}

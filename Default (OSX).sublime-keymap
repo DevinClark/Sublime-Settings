@@ -1,0 +1,28 @@
+[
+	{ "keys": ["ctrl+w"], "command": "insert_snippet", "args": { "name": "Packages/XML/long-tag.sublime-snippet" } },
+	{ "keys": ["ctrl+;"], "command": "run_macro_file", "args": {"file": "Packages/User/Semicolon.sublime-macro"} },
+	{ "keys": ["ctrl+shift+;"], "command": "run_macro_file", "args": {"file": "Packages/User/Semicolon New Line.sublime-macro"} },
+	{ "keys": ["alt+space"], "command": "auto_complete" },
+	{ "keys": ["alt+space"], "command": "replace_completion_with_auto_complete", "context":
+		[
+			{ "key": "last_command", "operator": "equal", "operand": "insert_best_completion" },
+			{ "key": "auto_complete_visible", "operator": "equal", "operand": false },
+			{ "key": "setting.tab_completion", "operator": "equal", "operand": true }
+		]
+	},
+	{ "keys": ["f2"], "command": "next_bookmark" },
+	{ "keys": ["super+v"], "command": "paste_and_indent" },
+	{ "keys": ["super+shift+v"], "command": "paste" },
+	{ "keys": ["super+shift+r"],  "command": "reindent" },
+
+	// Vim Keybindings
+	{ "keys": ["ctrl+j"], "command": "run_macro_file", "args": {"file": "Packages/User/vim/up.sublime-macro"} },
+	{ "keys": ["ctrl+k"], "command": "run_macro_file", "args": {"file": "Packages/User/vim/down.sublime-macro"} },
+	{ "keys": ["ctrl+h"], "command": "run_macro_file", "args": {"file": "Packages/User/vim/left.sublime-macro"} },
+	{ "keys": ["ctrl+l"], "command": "run_macro_file", "args": {"file": "Packages/User/vim/right.sublime-macro"} },
+
+	{ "keys": ["ctrl+a"], "command": "increment"},
+	{ "keys": ["ctrl+x"], "command": "decrement"},
+	{ "keys": ["ctrl+shift+a"], "command": "increment_super"},
+	{ "keys": ["ctrl+shift+x"], "command": "decrement_super"}
+]

@@ -1,0 +1,9 @@
+[
+	{
+		"args":
+		{
+			"to": "bol"
+		},
+		"command": "move_to"
+	}
+]

@@ -1,0 +1,14 @@
+{
+	"files":
+	{
+		"blueprint_screen": "https://raw.github.com/joshuaclayton/blueprint-css/master/blueprint/screen.css",
+		"colorbox": "https://raw.github.com/jackmoore/colorbox/master/colorbox/jquery.colorbox-min.js",
+		"prefix-free": "https://raw.github.com/LeaVerou/prefixfree/master/prefixfree.min.js",
+		"reset": "http://meyerweb.com/eric/tools/css/reset/reset.css",
+		"socialite.js": "https://raw.github.com/dbushell/Socialite/master/socialite.min.js"
+	},
+	"packages":
+	{
+		"html5-boilerplate": "http://github.com/h5bp/html5-boilerplate/zipball/v2.0stripped"
+	}
+}

@@ -1,0 +1,8 @@
+{
+	"cmd": ["node", "$file", "$file_base_name"],
+	"working_dir": "${project_path:${folder}}",
+	"selector": "source.js",
+	"osx": {
+		"path": "/usr/local/share/npm/bin:/usr/local/bin:/opt/local/bin"
+	}
+}

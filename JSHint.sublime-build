@@ -1,0 +1,7 @@
+{
+	"cmd": ["jshint", "$file"],
+	"selector": "source.js",
+	"osx": {
+		"path": "/usr/local/share/npm/bin:/usr/local/bin:/opt/local/bin"
+	}
+}
