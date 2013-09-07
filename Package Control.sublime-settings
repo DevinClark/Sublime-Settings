@@ -2,12 +2,8 @@
 	"auto_upgrade_last_run": null,
 	"installed_packages":
 	[
-		"4GL",
 		"AdvancedNewFile",
 		"Alignment",
-		"Alternative Autocompletion",
-		"Auto Semi-Colon",
-		"Better CoffeeScript",
 		"BracketHighlighter",
 		"Color Highlighter",
 		"Color Scheme - Frontend Delight",
@@ -17,8 +13,6 @@
 		"DetectSyntax",
 		"DocBlockr",
 		"EditorConfig",
-		"FileTemplates",
-		"Gist",
 		"GitHub.app Menu",
 		"Haml",
 		"Handlebars",
@@ -36,22 +30,16 @@
 		"Pretty JSON",
 		"Search WordPress Codex",
 		"SideBarEnhancements",
-		"sublime-csspecific",
 		"Tag",
 		"Theme - Phoenix",
 		"TidyHTML5",
 		"ToggleQuotes",
-		"Vintage Numbers",
-		"Web Inspector 3",
 		"WordHighlight",
-		"Wordpress",
-		"Xdebug"
+		"Wordpress"
 	],
 	"repositories":
 	[
 		"https://github.com/sergeche/emmet-sublime",
-		"https://github.com/Pephers/Super-Calculator",
-		"https://github.com/dlazic88/Gist",
 		"https://github.com/thinkpixellab/flatland/"
 	],
 	"repository_channels":
