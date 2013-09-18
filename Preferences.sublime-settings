@@ -76,5 +76,8 @@
 	"theme": "Phoenix Dark.sublime-theme",
 	"translate_tabs_to_spaces": false,
 	"use_simple_full_screen": true,
-	"word_wrap": true
+	"word_wrap": true,
+	"keymaps": {
+		"show_osx_keys": true
+	}
 }
