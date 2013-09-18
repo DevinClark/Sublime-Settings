@@ -5,5 +5,7 @@
 	],
 	"line_numbers": false,
 	"highlight_line": false,
-	"tab_size": 4
+	"tab_size": 4,
+	"spell_check": true,
+	"dictionary": "Packages/Language - English/en_US.dic"
 }
