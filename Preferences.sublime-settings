@@ -43,7 +43,8 @@
 		".hg",
 		".bin",
 		"wp-admin",
-		"wp-includes"
+		"wp-includes",
+		"node_modules"
 	],
 	"font_face": "Monaco",
 	"font_size": 20.0,
@@ -57,6 +58,10 @@
 		"PyV8",
 		"WordHighlight"
 	],
+	"keymaps":
+	{
+		"show_osx_keys": true
+	},
 	"line_padding_bottom": 2,
 	"line_padding_top": 2,
 	"match_brackets": true,
@@ -79,8 +84,5 @@
 	"theme": "Phoenix Dark.sublime-theme",
 	"translate_tabs_to_spaces": false,
 	"use_simple_full_screen": true,
-	"word_wrap": true,
-	"keymaps": {
-		"show_osx_keys": true
-	}
+	"word_wrap": true
 }
